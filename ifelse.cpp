@@ -115,7 +115,7 @@ int main(){
         cout<<"number is even"<<endl;
     }
         else{
-cout<<"nember is odd"<<endl;
+cout<<"number is odd "<<endl;
         }
     return 0;
 }
